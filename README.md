@@ -20,6 +20,9 @@ GIVEN a functional Express.js API
 Mock
 
 ## Technologies Used
+- MySQL
+- Sequalize
+- dotenv.
 
 ## Demo
 
