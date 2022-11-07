@@ -25,6 +25,7 @@ Mock
 - dotenv.
 
 ## Demo
+- Loom Video Walkthrough - https://www.loom.com/share/fd01fd043dbb4e1cb43400f99716f323
 
 ## Links
 - GitHub Repo: https://github.com/mals1230/ecommerce-back-end
